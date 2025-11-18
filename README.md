@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2005<br>📚 I'm currently learning golang</p>
+<p align="left">✨Currently in 3rd sem of Computer science engineering <br>📚 I'm currently learning golang</p>
 
 ###
 
