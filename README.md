@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Aamira Bushra and I'm an engineering student from Bangalore.</h3>
+<h3 align="left">My name is Aamira Bushra.</h3>
 
 ###
 
