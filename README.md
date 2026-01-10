@@ -1,20 +1,36 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=96&fontAlignY=64&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
 
-<h3 align="left">My name is  Bushra.</h3>
+<h3 align="left">(¯`·._.··¸.-~*´¨¯¨`*·~-Just a girl that knows her stuff-~*´¨¯¨`*·~-.¸··._.·´¯)</h3>
 
 ###
 
-<h2 align="left">About me</h2>
+<div align="center">
+  <img height="200" src="https://ibb.co/JwHxBHfp"  />
+</div>
 
 ###
 
-<p align="left">✨Currently in 3rd sem of Computer science engineering <br>📚 I'm currently learning golang</p>
+<h2 align="left">╭────┈ ↷<br>│ ✎┊ About me :<br>│╭────────────╯<br>││•Aamira bushra<br>││•She/her<br>││•Cse student<br>││•Computer frog 🐸<br>││•Linux/ Open source enthusiast<br>│╰─────────── · · · · ✦</h2>
 
 ###
 
-<h2 align="center">I code with</h2>
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">✴.·´¯`·.·★ 🎀𝓐𝓵𝓰𝓸𝓻𝓲𝓽𝓱𝓶𝓼, 𝓫𝓪𝓬𝓴𝓮𝓷𝓭 𝓼𝔂𝓼𝓽𝓮𝓶𝓼 & 𝓬𝓸𝓯𝓯𝓮𝓮-𝓯𝓾𝓮𝓵𝓵𝓮𝓭 𝓬𝓾𝓻𝓲𝓸𝓼𝓲𝓽𝔂 🎀 ★·.·`¯´·.✴</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/Script-Kitty01/Script-Kitty01/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">𝙼𝚊𝚔𝚒𝚗𝚐 𝚖𝚊𝚐𝚒𝚌 𝚠𝚒𝚝𝚑</h2>
 
 ###
 
@@ -29,36 +45,35 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Script-Kitty01/Script-Kitty01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Script-Kitty01/Script-Kitty01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Script-Kitty01/Script-Kitty01/output/pacman-contribution-graph.svg">
-</picture>
+<p align="left">.*･｡ﾟ☆ﾟ.*･｡ﾟ-ˋˏ ༻❁༺ ˎˊ-</p>
 
 ###
 
-<div align="left">
-  <a href="https://discordapp.com/users/738344204824084522" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
- 
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Script-Kitty01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Script-Kitty01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=110&section=header&reversal=true&fontSize=73&fontColor=D393EE&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=49&descAlignY=50&color=gradient"  />
 </div>
 
 ###
