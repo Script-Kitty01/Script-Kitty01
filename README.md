@@ -2,23 +2,23 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&fontSize=70&fontColor=D393EE&fontAlign=96&fontAlignY=64&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-###
+
 
 <h3 align="left">(¯`·._.··¸.-~*´¨¯¨`*·~-Just a girl that knows her stuff-~*´¨¯¨`*·~-.¸··._.·´¯)</h3>
 
-###
+
 <div align="center">
 <img src=".github/workflows/computer.jpg" alt="Computer Image">
 
 
 </div>
-###
+
 
 <h2 align="left">╭────┈ ↷<br>│ ✎┊ About me :<br>│╭────────────╯<br>││•Aamira bushra<br>││•She/her<br>││•Cse student<br>││•Computer frog 🐸<br>││•Linux/ Open source enthusiast<br>│╰─────────── · · · · ✦</h2>
 
-###
 
-<p align="left">Hello World!!</p>
+
+
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">𝙼𝚊𝚔𝚒𝚗𝚐 𝚖𝚊𝚐𝚒𝚌 𝚠𝚒𝚝𝚑</h2>
+
 
 ###
 
