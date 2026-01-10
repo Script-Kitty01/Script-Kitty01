@@ -8,7 +8,8 @@
 
 ###
 <div align="center">
-<img src="computer.jpg" alt="Computer Image">
+<img src=".github/workflows/computer.jpg" alt="Computer Image">
+
 
 </div>
 ###
