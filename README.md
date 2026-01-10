@@ -7,9 +7,10 @@
 <h3 align="left">(¯`·._.··¸.-~*´¨¯¨`*·~-Just a girl that knows her stuff-~*´¨¯¨`*·~-.¸··._.·´¯)</h3>
 
 ###
+<div align="center">
+<img src="computer.jpg" alt="Computer Image">
 
-
-
+</div>
 ###
 
 <h2 align="left">╭────┈ ↷<br>│ ✎┊ About me :<br>│╭────────────╯<br>││•Aamira bushra<br>││•She/her<br>││•Cse student<br>││•Computer frog 🐸<br>││•Linux/ Open source enthusiast<br>│╰─────────── · · · · ✦</h2>
