@@ -7,7 +7,7 @@
 <h3 align="left">(¯`·._.··¸.-~*´¨¯¨`*·~-Just a girl that knows her stuff-~*´¨¯¨`*·~-.¸··._.·´¯)</h3>
 
 
-<div align="center">
+<div align="left">
 <img src=".github/workflows/computer.jpg" alt="Computer Image">
 
 
