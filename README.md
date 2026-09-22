@@ -134,6 +134,35 @@ Built a containerized general-purpose agent designed to pass an accuracy gate wh
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Alpacha — HedgeMePlease
+
+**Defined-risk Iron Condors on SPY & QQQ**
+
+Built a quantitative options trading daemon on Alpaca forecasting 1-day realized volatility with an Enhanced HAR model, gating entries with three safety filters and protecting capital with a drawdown kill-switch.
+
+**Highlights**
+
+- Enhanced HAR volatility model (RV + BV + jumps + leverage)
+- 1-day realized volatility forecasting
+- 3-gate entry filtering (macro, contango, IV edge)
+- 0.20 delta Iron Condor construction
+- Expected-move dynamic wing sizing
+- 2.0% warning + 3.5% kill-switch risk ladder
+- SQLite persistence + dry-run / paper daemon
+- 16 unit & integration tests
+
+<a href="https://github.com/Jashwanth63/HedgeMePlease/tree/add-plan-md">Repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
