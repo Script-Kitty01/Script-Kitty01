@@ -21,14 +21,14 @@
 
 I like building systems where **AI meets real engineering constraints** — memory, latency, security, distributed data, cloud infrastructure, and cost.
 
-My recent work spans persistent-memory agents, multi-agent developer tooling on AMD GPUs, AI-powered endpoint detection and response, and token-efficient inference.
+My recent work spans persistent-memory agents, codebase intelligence graphs, multi-agent developer tooling on AMD GPUs, AI-powered endpoint detection and response, and quantitative trading systems.
 
 ```text
 AI Systems        → Agents • RAG • Memory • Model Routing
 Backend            → FastAPI • Python • REST APIs • Async Systems
 Cloud & DevOps     → AWS • Alibaba Cloud • Docker • Kubernetes
 Security           → EDR • Threat Detection • PII • Prompt Injection
-Data               → SQLite • PostgreSQL • CockroachDB • Vector Search
+Data               → DuckDB • SQLite • PostgreSQL • CockroachDB • Vector Search
 Performance        → ROCm • HIP • Quantization • Token Optimization
 ```
 
@@ -42,19 +42,18 @@ Performance        → ROCm • HIP • Quantization • Token Optimization
 
 ### 🧠 Qwen Cloud — MemoryAgent
 
-**Persistent memory for Qwen models**
+**Persistent memory & intelligent routing for LLM gateways**
 
-Built a memory-augmented LLM gateway with semantic memory, Ebbinghaus-style forgetting, semantic caching and intelligent routing across six Qwen models.
+Built a memory-augmented LLM gateway with semantic memory, Ebbinghaus-style forgetting curves, semantic caching, and intelligent routing across six Qwen models.
 
 **Highlights**
 
-- 26/26 tests passing
-- OpenAI-compatible `/v1/chat/completions`
-- 6-model intelligent routing
-- Cross-session memory
-- Semantic vector retrieval
-- PII detection & prompt-injection defense
-- Docker + Kubernetes / Alibaba Cloud ready
+- 26/26 test suite passing
+- OpenAI-compatible `/v1/chat/completions` endpoint
+- 6-model intelligent routing & dynamic load balancing
+- Cross-session persistent semantic vector retrieval
+- PII detection & prompt-injection defense layers
+- Docker + Kubernetes / Alibaba Cloud deployment ready
 - Sub-$0.001/request target architecture
 
 <a href="https://qwencloud-hackathon.devpost.com/">Hackathon</a> •
@@ -66,19 +65,19 @@ Built a memory-augmented LLM gateway with semantic memory, Ebbinghaus-style forg
 
 ### 🔥 AMD AI DevMaster — Kutaar
 
-**A private multi-agent AI engineering team**
+**Private multi-agent engineering team on AMD GPUs**
 
-Built a conversational codebase analysis system powered by AMD ROCm/HIP. Six specialized agents collaborate to inspect security, performance, architecture and DevOps concerns.
+Built a conversational codebase analysis system powered by AMD ROCm/HIP. Six specialized agents collaborate to inspect security, performance, architecture, and DevOps concerns.
 
 **Highlights**
 
-- 6-agent LangGraph workflow
-- RAG with ChromaDB
-- Bandit + Semgrep + Git analysis
-- Local inference on AMD Radeon
-- ROCm/HIP acceleration
-- Q4 quantization + GPU optimization
-- 124 tok/s measured token generation
+- 6-agent LangGraph orchestration workflow
+- RAG engine powered by ChromaDB
+- Automated Bandit, Semgrep & Git AST audits
+- Local inference optimized for AMD Radeon GPUs
+- ROCm / HIP kernel acceleration
+- Q4 quantization with 124 tok/s generation
+- Fully offline, air-gapped security model
 
 <a href="https://github.com/Script-Kitty01/devMaster_amd">Repository</a>
 
@@ -90,20 +89,19 @@ Built a conversational codebase analysis system powered by AMD ROCm/HIP. Six spe
 
 ### 🛡️ Columbina — AI-Powered EDR
 
-**A security analyst that remembers**
+**AI security analyst with multi-layered cognitive memory**
 
-An AI-powered EDR system with cognitive memory. It combines threat detection with episodic, semantic, procedural, organizational and analyst memory so repeated attacks can be analyzed using previous investigations.
+Built an AI-powered Endpoint Detection and Response (EDR) system with cognitive memory, combining live threat telemetry with historical incident patterns to accelerate investigation.
 
 **Highlights**
 
-- 5-type cognitive memory
-- CockroachDB + pgvector
-- MITRE ATT&CK mapping
-- AI-powered alert triage
-- Analyst feedback learning loop
-- Multi-tenant B2B architecture
-- RBAC + JWT authentication
-- FastAPI + React + TypeScript
+- 5-layer cognitive memory architecture
+- CockroachDB + pgvector hybrid retrieval
+- Automated MITRE ATT&CK framework mapping
+- AI-assisted alert triage & incident correlation
+- Closed-loop analyst feedback learning system
+- Multi-tenant B2B architecture with RBAC & JWT
+- FastAPI backend with React & TypeScript dashboard
 
 <a href="https://cockroachdb-ai.devpost.com/">Hackathon</a> •
 <a href="https://github.com/Script-Kitty01/columbina--ai-powered-edr-system">Repository</a>
@@ -114,20 +112,19 @@ An AI-powered EDR system with cognitive memory. It combines threat detection wit
 
 ### 🚀 AMD Developer Hackathon — Act II
 
-**Token-efficient AI inference**
+**Token-budget-aware agentic inference system**
 
-Built a containerized general-purpose agent designed to pass an accuracy gate while minimizing total inference tokens.
+Built a containerized general-purpose agent engineered to maximize benchmark accuracy while minimizing total token consumption and inference latency.
 
 **Highlights**
 
-- 8 task capability domains
-- Zero-token local task routing
-- Category-specific prompts
-- Constrained output generation
-- Accuracy-first optimization
-- Token-budget aware inference
-- Dockerized evaluation pipeline
-- Fireworks AI integration
+- 8 task capability domains with dynamic prompt plans
+- Zero-token deterministic local task routing
+- Constrained JSON output generation schema
+- Strict token-budget-aware reasoning loops
+- Accuracy-first benchmark optimization
+- Dockerized evaluation pipeline & automated harness
+- Fireworks AI integration with ultra-low latency
 
 <a href="https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-ii">Hackathon</a> •
 <a href="https://github.com/Script-Kitty01/amd-hackathon">Repository</a>
@@ -138,28 +135,46 @@ Built a containerized general-purpose agent designed to pass an accuracy gate wh
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Alpacha — HedgeMePlease
+### 📈 Alpaca — HedgeMePlease
 
-**Defined-risk Iron Condors on SPY & QQQ**
+**Quantitative options trading daemon with HAR volatility modeling**
 
-Built a quantitative options trading daemon on Alpaca forecasting 1-day realized volatility with an Enhanced HAR model, gating entries with three safety filters and protecting capital with a drawdown kill-switch.
+Built an automated quantitative options trading daemon on Alpaca executing defined-risk Iron Condors on SPY & QQQ, driven by an Enhanced HAR volatility forecast model and strict capital kill-switches.
 
 **Highlights**
 
-- Enhanced HAR volatility model (RV + BV + jumps + leverage)
-- 1-day realized volatility forecasting
+- Enhanced HAR model (RV + BV + jumps + leverage)
+- 1-day realized volatility forecasting engine
 - 3-gate entry filtering (macro, contango, IV edge)
-- 0.20 delta Iron Condor construction
-- Expected-move dynamic wing sizing
-- 2.0% warning + 3.5% kill-switch risk ladder
-- SQLite persistence + dry-run / paper daemon
-- 16 unit & integration tests
+- 0.20 delta Iron Condor construction & dynamic wings
+- 2.0% warning & 3.5% capital drawdown kill-switch
+- SQLite state persistence with dry-run paper daemon
+- 16 comprehensive unit & integration test suites
 
 <a href="https://github.com/Jashwanth63/HedgeMePlease/tree/add-plan-md">Repository</a>
 
 </td>
 
 <td width="50%" valign="top">
+
+### 🔍 IBM Bob 2.0 — RepoFlare
+
+**Deterministic change-impact analysis & codebase knowledge graph**
+
+Built an incremental repository intelligence system that maps codebase dependencies into a local DuckDB graph, delivering sub-millisecond impact traversal at $0 API cost alongside cited AI explanations.
+
+**Highlights**
+
+- Zero-cost deterministic AST impact traversal ($0 API calls)
+- Embedded DuckDB graph storage & content-hash caching
+- Grounded AI explanations with line-level code citations (`[file#L1-L3]`)
+- VS Code extension (TypeScript) over JSON-RPC 2.0 stdio
+- CLI analysis tool with interactive HTML report exports
+- Hosted FastAPI web demo with on-demand git cloning
+- Python 3.11+ • DuckDB • TypeScript • OpenRouter / Gemini
+
+<a href="https://github.com/Tahleels/repoflare">Repository</a> •
+<a href="https://repoflare.vercel.app/">Demo</a>
 
 </td>
 </tr>
@@ -279,6 +294,7 @@ Database / SQL          ███████
 <td align="center" width="25%">
 
 ### 🧠
+
 **Agentic AI**
 
 Memory, reasoning, routing, RAG and multi-agent orchestration.
@@ -287,6 +303,7 @@ Memory, reasoning, routing, RAG and multi-agent orchestration.
 <td align="center" width="25%">
 
 ### ☁️
+
 **Cloud**
 
 Containerized services, Kubernetes, AWS and Alibaba Cloud deployments.
@@ -295,6 +312,7 @@ Containerized services, Kubernetes, AWS and Alibaba Cloud deployments.
 <td align="center" width="25%">
 
 ### 🔐
+
 **Security**
 
 EDR, threat detection, PII protection and prompt-injection defense.
@@ -303,6 +321,7 @@ EDR, threat detection, PII protection and prompt-injection defense.
 <td align="center" width="25%">
 
 ### ⚡
+
 **Performance**
 
 GPU inference, quantization, caching and token-efficient systems.
